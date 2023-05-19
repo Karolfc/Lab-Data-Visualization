@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jane Austin",
+      "email": "johndoe@example.com",
+      "dob": "1994-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "dob": "1995-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 3,
+      "name": "David Giraldo",
+      "email": "josedavidgm1995@gmail.com",
+      "dob": "1995-03-23",
+      "phone": "3162789945",
+      "OS": "iOS",
+      "privacyAgreement": true
+    },
+    {
+      "id": 4,
+      "name": "Camilo Montoya",
+      "email": "cajomo@gmail.com",
+      "dob": "1997-02-04",
+      "phone": "3162789947",
+      "OS": "Android",
+      "privacyAgreement": true
+    },
+    {
+      "id": 5,
+      "name": "Arturo Gomez",
+      "email": "arturogomez@gmail.com",
+      "dob": "1997-02-04",
+      "phone": "3162789944",
+      "OS": "Android",
+      "privacyAgreement": true
+    },
+    {
+      "id": 6,
+      "name": "Rojuu",
+      "email": "rokuroku@gmail.com",
+      "dob": "2023-02-02",
+      "phone": "3046060148",
+      "OS": "Other",
+      "privacyAgreement": true
+    },
+    {
+      "id": 7,
+      "name": "Anakin",
+      "email": "darkside@gmail.com",
+      "dob": "1991-06-12",
+      "phone": "6666666666",
+      "OS": "Other",
+      "privacyAgreement": true
+    },
+    {
+      "id": 8,
+      "name": "Padme",
+      "email": "Padme@gmail.com",
+      "dob": "1988-07-14",
+      "phone": "1234567890",
+      "OS": "Other",
+      "privacyAgreement": true
+    },
+    {
+      "id": 9,
+      "name": "Luke",
+      "email": "theforce@gmail.com",
+      "dob": "2016-06-08",
+      "phone": "5555555555",
+      "OS": "Other",
+      "privacyAgreement": true
+    },
+    {
+      "id": 10,
+      "name": "Yoda",
+      "email": "Yodagod@gmail.com",
+      "dob": "2014-01-28",
+      "phone": "8888888888",
+      "OS": "Other",
+      "privacyAgreement": true
+    },
+    {
+      "id": 11,
+      "name": "Seth",
+      "email": "5678@gmail.com",
+      "dob": "1974-01-28",
+      "phone": "6666666666",
+      "OS": "Other",
+      "privacyAgreement": true
+    }
+  ]
+}

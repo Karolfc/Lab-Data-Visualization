@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard app</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main>
+        <section>
+            <div class="leads-table">
+                <h2 id="5Leads">Last 5 leads</h2>
+                <div id="leads-table" class="leads-table"></div>
+            </div>
+            <div class="chart-container">
+                <canvas id="myDoughnutChart"></canvas>
+            </div>
+        </section>
+        <section>
+            <div class="chart-container">
+                <canvas id="myBarChart"></canvas>
+            </div>
+            <div class="chart-container">
+                <canvas id="myLineChart"></canvas>
+            </div>
+        </section>
+    </main>
+    <script defer src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js"></script>
+    <script defer src="view.js"></script>
+    <script defer src="controller.js"></script>
+</body>
+
+</html>

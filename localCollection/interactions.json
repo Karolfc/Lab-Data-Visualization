@@ -1,0 +1,155 @@
+{
+  "interactions": [
+    {
+      "id": 12,
+      "privacyAgreement": false,
+      "date": "Sun May 14 2023",
+      "timeStamp": "16:30",
+      "OS": "iOS"
+    },
+    {
+      "id": 13,
+      "date": "Sun May 14 2023",
+      "timeStamp": "16:30",
+      "OS": "iOS"
+    },
+    {
+      "id": 14,
+      "date": "Sun May 14 2023",
+      "timeStamp": "16:30",
+      "OS": "iOS"
+    },
+    {
+      "id": 15,
+      "date": "Mon May 15 2023",
+      "timeStamp": "05:45",
+      "OS": "iOS"
+    },
+    {
+      "id": 16,
+      "date": "Mon May 15 2023",
+      "timeStamp": "09:56",
+      "OS": "Other"
+    },
+    {
+      "id": 17,
+      "date": "Mon May 15 2023",
+      "timeStamp": "10:01",
+      "OS": "Other"
+    },
+    {
+      "id": 18,
+      "date": "Wed May 17 2023",
+      "timeStamp": "07:27",
+      "OS": "Other"
+    },
+    {
+      "id": 19,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:27",
+      "OS": "Other"
+    },
+    {
+      "id": 20,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:27",
+      "OS": "Other"
+    },
+    {
+      "id": 21,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:31",
+      "OS": "Other"
+    },
+    {
+      "id": 22,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:33",
+      "OS": "Other"
+    },
+    {
+      "id": 23,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:43",
+      "OS": "Other"
+    },
+    {
+      "id": 24,
+      "date": "Wed May 17 2023",
+      "timeStamp": "22:44",
+      "OS": "Other"
+    },
+    {
+      "id": 25,
+      "date": "Wed May 17 2023",
+      "timeStamp": "23:25",
+      "OS": "Other"
+    },
+    {
+      "id": 26,
+      "date": "Wed May 17 2023",
+      "timeStamp": "23:27",
+      "OS": "Other"
+    },
+    {
+      "id": 27,
+      "date": "Wed May 17 2023",
+      "timeStamp": "23:33",
+      "OS": "Other"
+    },
+    {
+      "id": 17,
+      "date": "Fri May 19 2023",
+      "timeStamp": "7:37",
+      "OS": "Other"
+    },
+    {
+      "id": 18,
+      "date": "Fri May 19 2023",
+      "timeStamp": "7:38",
+      "OS": "Other"
+    },
+    {
+      "id": 19,
+      "date": "Fri May 19 2023",
+      "timeStamp": "7:44",
+      "OS": "Other"
+    },
+    {
+      "id": 20,
+      "date": "Fri May 19 2023",
+      "timeStamp": "8:16",
+      "OS": "Other"
+    },
+    {
+      "id": 21,
+      "date": "Fri May 19 2023",
+      "timeStamp": "9:5",
+      "OS": "Other"
+    },
+    {
+      "id": 22,
+      "date": "Fri May 19 2023",
+      "timeStamp": "9:7",
+      "OS": "Other"
+    },
+    {
+      "id": 23,
+      "date": "Fri May 19 2023",
+      "timeStamp": "9:11",
+      "OS": "Other"
+    },
+    {
+      "id": 24,
+      "date": "Fri May 19 2023",
+      "timeStamp": "9:12",
+      "OS": "Other"
+    },
+    {
+      "id": 25,
+      "date": "Fri May 19 2023",
+      "timeStamp": "9:16",
+      "OS": "Other"
+    }
+  ]
+}
